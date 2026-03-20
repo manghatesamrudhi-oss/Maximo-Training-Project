@@ -1,0 +1,9 @@
+site_name: IBM Maximo Training Guide
+docs_dir: docs
+site_dir: site
+nav:
+  - Home: index.md
+  - Introduction: 01_intro.md
+  - Start Center: 02_start_center.md
+  - Asset Management: 03_assets.md
+  - Work Order Management: 04_work_order.md
